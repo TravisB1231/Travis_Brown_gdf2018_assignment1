@@ -1,0 +1,11 @@
+I updated Unity to 2.5, installed Audacity and Photoshop, and I've encountered no issues getting these programs installed.
+
+A couple things I noticed doing the process on a separate computer today, however:
+
+-It seems that, after Unity 2018.1, Unity discontinued their integration of MonoDevelop, so everyone will have to have some
+external IDE moving forward.
+
+-I tried updating to Unity 2.5f specifically on a second computer, but they've removed it from their website within the last
+few days. Anyone lagging behind might be stuck on Unity 2.7.
+
+Cheers.
